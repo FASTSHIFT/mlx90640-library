@@ -75,7 +75,7 @@
 
 #define POW2(x) pow(2, (double)x) 
 
-#define SCALEALPHA 0.000001
+#define SCALEALPHA 0.000001f
     
 typedef struct
     {
